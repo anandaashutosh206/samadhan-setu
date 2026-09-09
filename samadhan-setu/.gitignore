@@ -1,0 +1,37 @@
+# Node / Next.js
+node_modules/
+.next/
+out/
+web/.env.local
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+api/.env
+
+# Database
+*.db
+*.db-journal
+
+# Uploads
+uploads/*
+!uploads/.gitkeep
+
+# AI model artifacts (regenerated on first run)
+api/app/ai/models/*.joblib
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Build outputs
+web/.next/
+web/out/

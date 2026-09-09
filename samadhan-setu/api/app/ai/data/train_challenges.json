@@ -1,0 +1,2144 @@
+[
+  {
+    "title": "MGNREGA wage payment delays affecting rural households in Ranchi",
+    "description": "Rural households in Ranchi enrolled under MGNREGA report wage payment delays of several weeks to months, forcing many to migrate for daily wage work.",
+    "domain": "rural_livelihoods",
+    "severity": "high",
+    "district": "Ranchi"
+  },
+  {
+    "title": "Fluoride contamination affecting bone health in Palamu",
+    "description": "Residents in pockets of Palamu show early signs of skeletal fluorosis linked to high fluoride content in the only available borewell water source.",
+    "domain": "water_resources",
+    "severity": "critical",
+    "district": "Palamu"
+  },
+  {
+    "title": "Farmers in Giridih lack access to soil testing labs",
+    "description": "Smallholder farmers in Giridih district have to travel over 40 km to the nearest soil testing facility, leading to inefficient fertilizer use and declining yields.",
+    "domain": "agriculture",
+    "severity": "medium",
+    "district": "Giridih"
+  },
+  {
+    "title": "Poor grievance redressal at panchayat level in East Singhbhum",
+    "description": "Villagers in East Singhbhum report that grievances submitted at the gram panchayat level rarely receive a documented response or resolution timeline.",
+    "domain": "public_administration",
+    "severity": "medium",
+    "district": "East Singhbhum"
+  },
+  {
+    "title": "Self-help groups in Lohardaga lack access to formal credit",
+    "description": "Women-led self-help groups in Lohardaga report difficulty accessing bank credit for scaling up small enterprises despite consistent savings track records.",
+    "domain": "rural_livelihoods",
+    "severity": "medium",
+    "district": "Lohardaga"
+  },
+  {
+    "title": "Deforestation near coal mining belt in Ramgarh",
+    "description": "Local environmental groups report accelerating deforestation around the coal mining belt in Ramgarh, affecting the microclimate and traditional forest-based livelihoods.",
+    "domain": "environment",
+    "severity": "high",
+    "district": "Ramgarh"
+  },
+  {
+    "title": "Low uptake of solar micro-grids in remote Sahibganj villages",
+    "description": "Remote villages in Sahibganj that are not economically viable for grid extension have seen little uptake of solar micro-grid alternatives due to lack of awareness and financing options.",
+    "domain": "energy",
+    "severity": "medium",
+    "district": "Sahibganj"
+  },
+  {
+    "title": "Poor solid waste segregation infrastructure in Dumka municipality",
+    "description": "The Dumka municipal area lacks door-to-door segregated waste collection, with most waste going untreated to an overflowing dump yard.",
+    "domain": "urban_development",
+    "severity": "medium",
+    "district": "Dumka"
+  },
+  {
+    "title": "Long delays in caste and income certificate issuance, Bokaro",
+    "description": "Citizens in Bokaro report waiting several months for caste and income certificates from the block office, delaying access to scholarships and welfare schemes.",
+    "domain": "public_administration",
+    "severity": "medium",
+    "district": "Bokaro"
+  },
+  {
+    "title": "Long delays in caste and income certificate issuance, Khunti",
+    "description": "Citizens in Khunti report waiting several months for caste and income certificates from the block office, delaying access to scholarships and welfare schemes.",
+    "domain": "public_administration",
+    "severity": "medium",
+    "district": "Khunti"
+  },
+  {
+    "title": "Illegal sand mining damaging riverbank in Palamu",
+    "description": "Unregulated sand mining along the river in Palamu is causing riverbank erosion and threatening nearby agricultural land and a village road.",
+    "domain": "environment",
+    "severity": "high",
+    "district": "Palamu"
+  },
+  {
+    "title": "High maternal mortality reported in remote blocks of West Singhbhum",
+    "description": "Community health workers in West Singhbhum flag a rise in home deliveries without skilled attendance due to the nearest functional delivery point being over 20 km away.",
+    "domain": "healthcare",
+    "severity": "critical",
+    "district": "West Singhbhum"
+  },
+  {
+    "title": "Plastic waste choking drainage channels in Palamu",
+    "description": "Improper plastic waste disposal is clogging natural drainage channels in Palamu, causing waterlogging during even moderate rainfall.",
+    "domain": "environment",
+    "severity": "medium",
+    "district": "Palamu"
+  },
+  {
+    "title": "Lack of ambulance service in interior villages of Deoghar",
+    "description": "Villagers in interior parts of Deoghar report having no access to ambulance services during medical emergencies, often relying on private vehicles or bullock carts.",
+    "domain": "healthcare",
+    "severity": "high",
+    "district": "Deoghar"
+  },
+  {
+    "title": "Seasonal distress migration from Latehar villages",
+    "description": "Every year, a large number of working-age villagers from Latehar migrate to other states for construction and brick-kiln work due to lack of local livelihood opportunities.",
+    "domain": "rural_livelihoods",
+    "severity": "high",
+    "district": "Latehar"
+  },
+  {
+    "title": "Long delays in caste and income certificate issuance, Dumka",
+    "description": "Citizens in Dumka report waiting several months for caste and income certificates from the block office, delaying access to scholarships and welfare schemes.",
+    "domain": "public_administration",
+    "severity": "medium",
+    "district": "Dumka"
+  },
+  {
+    "title": "Government buildings in Ranchi lack wheelchair access",
+    "description": "Several government offices in Ranchi including the block development office have no ramps or accessible toilets, making it difficult for persons with disabilities to access services.",
+    "domain": "accessibility",
+    "severity": "high",
+    "district": "Ranchi"
+  },
+  {
+    "title": "Groundwater contamination with iron reported in Pakur",
+    "description": "Water quality tests in parts of Pakur show excess iron content in groundwater, making it unfit for regular consumption without treatment.",
+    "domain": "water_resources",
+    "severity": "high",
+    "district": "Pakur"
+  },
+  {
+    "title": "High maternal mortality reported in remote blocks of Seraikela Kharsawan",
+    "description": "Community health workers in Seraikela Kharsawan flag a rise in home deliveries without skilled attendance due to the nearest functional delivery point being over 20 km away.",
+    "domain": "healthcare",
+    "severity": "critical",
+    "district": "Seraikela Kharsawan"
+  },
+  {
+    "title": "Land record digitisation errors causing disputes in West Singhbhum",
+    "description": "Digitised land records in parts of West Singhbhum contain mismatches with physical records, leading to an increase in ownership disputes and loan rejections for farmers.",
+    "domain": "public_administration",
+    "severity": "medium",
+    "district": "West Singhbhum"
+  },
+  {
+    "title": "High maternal mortality reported in remote blocks of Pakur",
+    "description": "Community health workers in Pakur flag a rise in home deliveries without skilled attendance due to the nearest functional delivery point being over 20 km away.",
+    "domain": "healthcare",
+    "severity": "critical",
+    "district": "Pakur"
+  },
+  {
+    "title": "Mental health services absent at district hospital, Pakur",
+    "description": "The district hospital in Pakur has no dedicated mental health counsellor or psychiatrist, leaving patients with no local access to care.",
+    "domain": "healthcare",
+    "severity": "medium",
+    "district": "Pakur"
+  },
+  {
+    "title": "Lack of market linkage for tribal forest produce in Seraikela Kharsawan",
+    "description": "Tribal collectors of minor forest produce like mahua and tendu leaves in Seraikela Kharsawan continue to sell to middlemen at low prices due to absence of organised market linkage or processing units.",
+    "domain": "rural_livelihoods",
+    "severity": "medium",
+    "district": "Seraikela Kharsawan"
+  },
+  {
+    "title": "Mental health services absent at district hospital, Simdega",
+    "description": "The district hospital in Simdega has no dedicated mental health counsellor or psychiatrist, leaving patients with no local access to care.",
+    "domain": "healthcare",
+    "severity": "medium",
+    "district": "Simdega"
+  },
+  {
+    "title": "Non-functional piped water scheme in village, Ramgarh",
+    "description": "A Jal Jeevan Mission piped water connection scheme in Ramgarh village remains non-functional a year after installation due to pump motor failure.",
+    "domain": "water_resources",
+    "severity": "high",
+    "district": "Ramgarh"
+  },
+  {
+    "title": "Deforestation near coal mining belt in Hazaribagh",
+    "description": "Local environmental groups report accelerating deforestation around the coal mining belt in Hazaribagh, affecting the microclimate and traditional forest-based livelihoods.",
+    "domain": "environment",
+    "severity": "high",
+    "district": "Hazaribagh"
+  },
+  {
+    "title": "Street lighting absent in newly developed colony, Latehar",
+    "description": "A newly developed residential colony in Latehar town lacks street lighting, raising safety concerns for women and the elderly after dark.",
+    "domain": "urban_development",
+    "severity": "medium",
+    "district": "Latehar"
+  },
+  {
+    "title": "Malnutrition among children in Anganwadi centres, Sahibganj",
+    "description": "Anganwadi records from Sahibganj show a significant proportion of children under five classified as underweight, with irregular supplementary nutrition supply.",
+    "domain": "healthcare",
+    "severity": "critical",
+    "district": "Sahibganj"
+  },
+  {
+    "title": "Long delays in caste and income certificate issuance, Koderma",
+    "description": "Citizens in Koderma report waiting several months for caste and income certificates from the block office, delaying access to scholarships and welfare schemes.",
+    "domain": "public_administration",
+    "severity": "medium",
+    "district": "Koderma"
+  },
+  {
+    "title": "MGNREGA wage payment delays affecting rural households in Dumka",
+    "description": "Rural households in Dumka enrolled under MGNREGA report wage payment delays of several weeks to months, forcing many to migrate for daily wage work.",
+    "domain": "rural_livelihoods",
+    "severity": "high",
+    "district": "Dumka"
+  },
+  {
+    "title": "Uncollected solid waste piling up in Simdega town",
+    "description": "Municipal solid waste in a ward of Simdega town remains uncollected for days at a time, leading to foul smell, stray animal menace, and breeding grounds for mosquitoes.",
+    "domain": "environment",
+    "severity": "medium",
+    "district": "Simdega"
+  },
+  {
+    "title": "Mental health services absent at district hospital, West Singhbhum",
+    "description": "The district hospital in West Singhbhum has no dedicated mental health counsellor or psychiatrist, leaving patients with no local access to care.",
+    "domain": "healthcare",
+    "severity": "medium",
+    "district": "West Singhbhum"
+  },
+  {
+    "title": "Poor grievance redressal at panchayat level in Sahibganj",
+    "description": "Villagers in Sahibganj report that grievances submitted at the gram panchayat level rarely receive a documented response or resolution timeline.",
+    "domain": "public_administration",
+    "severity": "medium",
+    "district": "Sahibganj"
+  },
+  {
+    "title": "MGNREGA wage payment delays affecting rural households in Palamu",
+    "description": "Rural households in Palamu enrolled under MGNREGA report wage payment delays of several weeks to months, forcing many to migrate for daily wage work.",
+    "domain": "rural_livelihoods",
+    "severity": "high",
+    "district": "Palamu"
+  },
+  {
+    "title": "Mid-day meal quality complaints from school in Lohardaga",
+    "description": "Parents in Lohardaga report that mid-day meals served at the primary school are frequently substandard, sometimes stale, raising health concerns for young children.",
+    "domain": "education",
+    "severity": "medium",
+    "district": "Lohardaga"
+  },
+  {
+    "title": "Malnutrition among children in Anganwadi centres, Gumla",
+    "description": "Anganwadi records from Gumla show a significant proportion of children under five classified as underweight, with irregular supplementary nutrition supply.",
+    "domain": "healthcare",
+    "severity": "critical",
+    "district": "Gumla"
+  },
+  {
+    "title": "Fluoride contamination affecting bone health in Koderma",
+    "description": "Residents in pockets of Koderma show early signs of skeletal fluorosis linked to high fluoride content in the only available borewell water source.",
+    "domain": "water_resources",
+    "severity": "critical",
+    "district": "Koderma"
+  },
+  {
+    "title": "Illegal sand mining damaging riverbank in Dumka",
+    "description": "Unregulated sand mining along the river in Dumka is causing riverbank erosion and threatening nearby agricultural land and a village road.",
+    "domain": "environment",
+    "severity": "high",
+    "district": "Dumka"
+  },
+  {
+    "title": "Pension disbursement delays for elderly citizens in Deoghar",
+    "description": "Elderly beneficiaries of the old-age pension scheme in Deoghar report irregular and delayed monthly disbursement, affecting their basic subsistence.",
+    "domain": "public_administration",
+    "severity": "high",
+    "district": "Deoghar"
+  },
+  {
+    "title": "Lack of ambulance service in interior villages of Dhanbad",
+    "description": "Villagers in interior parts of Dhanbad report having no access to ambulance services during medical emergencies, often relying on private vehicles or bullock carts.",
+    "domain": "healthcare",
+    "severity": "high",
+    "district": "Dhanbad"
+  },
+  {
+    "title": "Encroachment on public land and footpaths in Lohardaga",
+    "description": "Vendor and structure encroachment on footpaths in the main market area of Lohardaga town has made pedestrian movement unsafe, especially for the elderly and disabled.",
+    "domain": "urban_development",
+    "severity": "low",
+    "district": "Lohardaga"
+  },
+  {
+    "title": "Plastic waste choking drainage channels in Dumka",
+    "description": "Improper plastic waste disposal is clogging natural drainage channels in Dumka, causing waterlogging during even moderate rainfall.",
+    "domain": "environment",
+    "severity": "medium",
+    "district": "Dumka"
+  },
+  {
+    "title": "Human-wildlife conflict damaging crops near forest fringe, Simdega",
+    "description": "Elephant herds from nearby forest areas in Simdega have repeatedly damaged standing crops of maize and paddy near forest-fringe villages, with no compensation disbursed.",
+    "domain": "agriculture",
+    "severity": "high",
+    "district": "Simdega"
+  },
+  {
+    "title": "Irrigation canal siltation affecting farmland in Jamtara",
+    "description": "A key minor irrigation canal serving several villages in Jamtara has not been desilted in years, cutting off water supply to nearly 200 acres of cultivable land.",
+    "domain": "agriculture",
+    "severity": "high",
+    "district": "Jamtara"
+  },
+  {
+    "title": "Lack of ambulance service in interior villages of Garhwa",
+    "description": "Villagers in interior parts of Garhwa report having no access to ambulance services during medical emergencies, often relying on private vehicles or bullock carts.",
+    "domain": "healthcare",
+    "severity": "high",
+    "district": "Garhwa"
+  },
+  {
+    "title": "Land record digitisation errors causing disputes in Chatra",
+    "description": "Digitised land records in parts of Chatra contain mismatches with physical records, leading to an increase in ownership disputes and loan rejections for farmers.",
+    "domain": "public_administration",
+    "severity": "medium",
+    "district": "Chatra"
+  },
+  {
+    "title": "Crop damage due to erratic rainfall in Ranchi",
+    "description": "Paddy farmers in Ranchi report significant crop loss this kharif season due to delayed monsoon followed by sudden heavy rainfall, with no crop insurance claims processed yet.",
+    "domain": "agriculture",
+    "severity": "high",
+    "district": "Ranchi"
+  },
+  {
+    "title": "Air quality deterioration near industrial cluster, Jamtara",
+    "description": "Residents living near the industrial cluster in Jamtara report worsening air quality with visible dust and smoke, correlating with rising respiratory complaints.",
+    "domain": "environment",
+    "severity": "high",
+    "district": "Jamtara"
+  },
+  {
+    "title": "Ration card corrections stuck in bureaucratic delay, Ranchi",
+    "description": "Numerous ration card correction and addition requests in Ranchi remain pending for over a year, affecting food security for eligible households.",
+    "domain": "public_administration",
+    "severity": "medium",
+    "district": "Ranchi"
+  },
+  {
+    "title": "Library and reading resources absent in block schools, Simdega",
+    "description": "Most upper primary schools in Simdega block lack a functioning library or age-appropriate reading material, limiting literacy development beyond textbooks.",
+    "domain": "education",
+    "severity": "low",
+    "district": "Simdega"
+  },
+  {
+    "title": "Irrigation canal siltation affecting farmland in Lohardaga",
+    "description": "A key minor irrigation canal serving several villages in Lohardaga has not been desilted in years, cutting off water supply to nearly 200 acres of cultivable land.",
+    "domain": "agriculture",
+    "severity": "high",
+    "district": "Lohardaga"
+  },
+  {
+    "title": "Irrigation canal siltation affecting farmland in Garhwa",
+    "description": "A key minor irrigation canal serving several villages in Garhwa has not been desilted in years, cutting off water supply to nearly 200 acres of cultivable land.",
+    "domain": "agriculture",
+    "severity": "high",
+    "district": "Garhwa"
+  },
+  {
+    "title": "Unelectrified hamlets remain off-grid in West Singhbhum",
+    "description": "Several small hamlets in the interior of West Singhbhum remain without any grid electricity connection despite being listed as electrified under national schemes.",
+    "domain": "energy",
+    "severity": "critical",
+    "district": "West Singhbhum"
+  },
+  {
+    "title": "Ration card corrections stuck in bureaucratic delay, Palamu",
+    "description": "Numerous ration card correction and addition requests in Palamu remain pending for over a year, affecting food security for eligible households.",
+    "domain": "public_administration",
+    "severity": "medium",
+    "district": "Palamu"
+  },
+  {
+    "title": "Groundwater contamination with iron reported in Seraikela Kharsawan",
+    "description": "Water quality tests in parts of Seraikela Kharsawan show excess iron content in groundwater, making it unfit for regular consumption without treatment.",
+    "domain": "water_resources",
+    "severity": "high",
+    "district": "Seraikela Kharsawan"
+  },
+  {
+    "title": "Encroachment on public land and footpaths in Garhwa",
+    "description": "Vendor and structure encroachment on footpaths in the main market area of Garhwa town has made pedestrian movement unsafe, especially for the elderly and disabled.",
+    "domain": "urban_development",
+    "severity": "low",
+    "district": "Garhwa"
+  },
+  {
+    "title": "Damaged transformers not replaced for months in Godda",
+    "description": "A burnt distribution transformer serving multiple villages in Godda has not been replaced for several months, leaving hundreds of households without power.",
+    "domain": "energy",
+    "severity": "high",
+    "district": "Godda"
+  },
+  {
+    "title": "Uncollected solid waste piling up in Chatra town",
+    "description": "Municipal solid waste in a ward of Chatra town remains uncollected for days at a time, leading to foul smell, stray animal menace, and breeding grounds for mosquitoes.",
+    "domain": "environment",
+    "severity": "medium",
+    "district": "Chatra"
+  },
+  {
+    "title": "Shortage of subject teachers in West Singhbhum secondary schools",
+    "description": "Several secondary schools in West Singhbhum are running without science and mathematics teachers for over six months, affecting board exam preparation for class 10 and 12 students in the block.",
+    "domain": "education",
+    "severity": "high",
+    "district": "West Singhbhum"
+  },
+  {
+    "title": "Fluoride contamination affecting bone health in Ranchi",
+    "description": "Residents in pockets of Ranchi show early signs of skeletal fluorosis linked to high fluoride content in the only available borewell water source.",
+    "domain": "water_resources",
+    "severity": "critical",
+    "district": "Ranchi"
+  },
+  {
+    "title": "No sign language interpreters at public service counters, Simdega",
+    "description": "Public service delivery counters in Simdega including the district hospital have no sign language support, excluding hearing-impaired citizens from timely service.",
+    "domain": "accessibility",
+    "severity": "medium",
+    "district": "Simdega"
+  },
+  {
+    "title": "Poor drainage causing waterlogging in Khunti town wards",
+    "description": "Several low-lying wards of Khunti town flood with even moderate rainfall due to inadequate and poorly maintained drainage infrastructure.",
+    "domain": "urban_development",
+    "severity": "high",
+    "district": "Khunti"
+  },
+  {
+    "title": "Crop damage due to erratic rainfall in Bokaro",
+    "description": "Paddy farmers in Bokaro report significant crop loss this kharif season due to delayed monsoon followed by sudden heavy rainfall, with no crop insurance claims processed yet.",
+    "domain": "agriculture",
+    "severity": "high",
+    "district": "Bokaro"
+  },
+  {
+    "title": "Rising waterborne disease cases during monsoon in Ranchi",
+    "description": "Local health workers in Ranchi report a spike in diarrhoea and typhoid cases each monsoon linked to contaminated drinking water sources in nearby hamlets.",
+    "domain": "healthcare",
+    "severity": "high",
+    "district": "Ranchi"
+  },
+  {
+    "title": "Unelectrified hamlets remain off-grid in Seraikela Kharsawan",
+    "description": "Several small hamlets in the interior of Seraikela Kharsawan remain without any grid electricity connection despite being listed as electrified under national schemes.",
+    "domain": "energy",
+    "severity": "critical",
+    "district": "Seraikela Kharsawan"
+  },
+  {
+    "title": "Government buildings in Khunti lack wheelchair access",
+    "description": "Several government offices in Khunti including the block development office have no ramps or accessible toilets, making it difficult for persons with disabilities to access services.",
+    "domain": "accessibility",
+    "severity": "high",
+    "district": "Khunti"
+  },
+  {
+    "title": "Plastic waste choking drainage channels in Koderma",
+    "description": "Improper plastic waste disposal is clogging natural drainage channels in Koderma, causing waterlogging during even moderate rainfall.",
+    "domain": "environment",
+    "severity": "medium",
+    "district": "Koderma"
+  },
+  {
+    "title": "Pond and check dam desilting needed in Dhanbad",
+    "description": "Traditional water bodies in Dhanbad that recharge the local aquifer have silted up over the years, reducing available water for both irrigation and drinking.",
+    "domain": "water_resources",
+    "severity": "medium",
+    "district": "Dhanbad"
+  },
+  {
+    "title": "Handicraft artisans in Bokaro lack design and market support",
+    "description": "Traditional bamboo and lac handicraft artisans in Bokaro face declining incomes due to lack of design innovation support and direct market access, relying entirely on local haats.",
+    "domain": "rural_livelihoods",
+    "severity": "medium",
+    "district": "Bokaro"
+  },
+  {
+    "title": "Low adoption of improved seed varieties in Dumka",
+    "description": "Farmers in remote blocks of Dumka continue using traditional low-yield paddy seed varieties due to lack of awareness and unavailability of certified seeds from Krishi Vigyan Kendra.",
+    "domain": "agriculture",
+    "severity": "medium",
+    "district": "Dumka"
+  },
+  {
+    "title": "High maternal mortality reported in remote blocks of Chatra",
+    "description": "Community health workers in Chatra flag a rise in home deliveries without skilled attendance due to the nearest functional delivery point being over 20 km away.",
+    "domain": "healthcare",
+    "severity": "critical",
+    "district": "Chatra"
+  },
+  {
+    "title": "Land record digitisation errors causing disputes in Simdega",
+    "description": "Digitised land records in parts of Simdega contain mismatches with physical records, leading to an increase in ownership disputes and loan rejections for farmers.",
+    "domain": "public_administration",
+    "severity": "medium",
+    "district": "Simdega"
+  },
+  {
+    "title": "Shortage of subject teachers in Simdega secondary schools",
+    "description": "Several secondary schools in Simdega are running without science and mathematics teachers for over six months, affecting board exam preparation for class 10 and 12 students in the block.",
+    "domain": "education",
+    "severity": "high",
+    "district": "Simdega"
+  },
+  {
+    "title": "Library and reading resources absent in block schools, Seraikela Kharsawan",
+    "description": "Most upper primary schools in Seraikela Kharsawan block lack a functioning library or age-appropriate reading material, limiting literacy development beyond textbooks.",
+    "domain": "education",
+    "severity": "low",
+    "district": "Seraikela Kharsawan"
+  },
+  {
+    "title": "Encroachment on public land and footpaths in Jamtara",
+    "description": "Vendor and structure encroachment on footpaths in the main market area of Jamtara town has made pedestrian movement unsafe, especially for the elderly and disabled.",
+    "domain": "urban_development",
+    "severity": "low",
+    "district": "Jamtara"
+  },
+  {
+    "title": "Post-harvest storage loss for vegetable farmers, Ramgarh",
+    "description": "Vegetable growers in Ramgarh lose up to 25% of produce due to lack of cold storage and poor rural roads connecting farms to the local mandi.",
+    "domain": "agriculture",
+    "severity": "high",
+    "district": "Ramgarh"
+  },
+  {
+    "title": "High dropout rate among tribal girl students in Ranchi",
+    "description": "Local NGOs report rising dropout of adolescent tribal girls after class 8 in Ranchi due to distance to secondary schools and lack of hostel facilities.",
+    "domain": "education",
+    "severity": "high",
+    "district": "Ranchi"
+  },
+  {
+    "title": "Lack of market linkage for tribal forest produce in Giridih",
+    "description": "Tribal collectors of minor forest produce like mahua and tendu leaves in Giridih continue to sell to middlemen at low prices due to absence of organised market linkage or processing units.",
+    "domain": "rural_livelihoods",
+    "severity": "medium",
+    "district": "Giridih"
+  },
+  {
+    "title": "Poor grievance redressal at panchayat level in Gumla",
+    "description": "Villagers in Gumla report that grievances submitted at the gram panchayat level rarely receive a documented response or resolution timeline.",
+    "domain": "public_administration",
+    "severity": "medium",
+    "district": "Gumla"
+  },
+  {
+    "title": "Air quality deterioration near industrial cluster, Deoghar",
+    "description": "Residents living near the industrial cluster in Deoghar report worsening air quality with visible dust and smoke, correlating with rising respiratory complaints.",
+    "domain": "environment",
+    "severity": "high",
+    "district": "Deoghar"
+  },
+  {
+    "title": "Non-functional piped water scheme in village, East Singhbhum",
+    "description": "A Jal Jeevan Mission piped water connection scheme in East Singhbhum village remains non-functional a year after installation due to pump motor failure.",
+    "domain": "water_resources",
+    "severity": "high",
+    "district": "East Singhbhum"
+  },
+  {
+    "title": "Farmers in Simdega lack access to soil testing labs",
+    "description": "Smallholder farmers in Simdega district have to travel over 40 km to the nearest soil testing facility, leading to inefficient fertilizer use and declining yields.",
+    "domain": "agriculture",
+    "severity": "medium",
+    "district": "Simdega"
+  },
+  {
+    "title": "Irrigation canal siltation affecting farmland in Godda",
+    "description": "A key minor irrigation canal serving several villages in Godda has not been desilted in years, cutting off water supply to nearly 200 acres of cultivable land.",
+    "domain": "agriculture",
+    "severity": "high",
+    "district": "Godda"
+  },
+  {
+    "title": "Handicraft artisans in Koderma lack design and market support",
+    "description": "Traditional bamboo and lac handicraft artisans in Koderma face declining incomes due to lack of design innovation support and direct market access, relying entirely on local haats.",
+    "domain": "rural_livelihoods",
+    "severity": "medium",
+    "district": "Koderma"
+  },
+  {
+    "title": "Pond and check dam desilting needed in Jamtara",
+    "description": "Traditional water bodies in Jamtara that recharge the local aquifer have silted up over the years, reducing available water for both irrigation and drinking.",
+    "domain": "water_resources",
+    "severity": "medium",
+    "district": "Jamtara"
+  },
+  {
+    "title": "MGNREGA wage payment delays affecting rural households in Khunti",
+    "description": "Rural households in Khunti enrolled under MGNREGA report wage payment delays of several weeks to months, forcing many to migrate for daily wage work.",
+    "domain": "rural_livelihoods",
+    "severity": "high",
+    "district": "Khunti"
+  },
+  {
+    "title": "Government school in Koderma has no functioning toilets",
+    "description": "The government middle school in Koderma district has broken or non-functional toilets, forcing girl students to skip classes during menstruation. Parents have complained to the block education officer multiple times with no repair carried out this academic year.",
+    "domain": "education",
+    "severity": "high",
+    "district": "Koderma"
+  },
+  {
+    "title": "Braille and assistive learning material unavailable in Lohardaga schools",
+    "description": "Schools with visually impaired students in Lohardaga report a lack of Braille textbooks and assistive learning devices, affecting inclusive education goals.",
+    "domain": "accessibility",
+    "severity": "high",
+    "district": "Lohardaga"
+  },
+  {
+    "title": "Unplanned urban growth straining civic amenities in Pakur",
+    "description": "Rapid unplanned settlement expansion on the outskirts of Pakur town has outpaced water supply, sewage, and road infrastructure planning.",
+    "domain": "urban_development",
+    "severity": "medium",
+    "district": "Pakur"
+  },
+  {
+    "title": "Rising waterborne disease cases during monsoon in Koderma",
+    "description": "Local health workers in Koderma report a spike in diarrhoea and typhoid cases each monsoon linked to contaminated drinking water sources in nearby hamlets.",
+    "domain": "healthcare",
+    "severity": "high",
+    "district": "Koderma"
+  },
+  {
+    "title": "Poor drainage causing waterlogging in Dumka town wards",
+    "description": "Several low-lying wards of Dumka town flood with even moderate rainfall due to inadequate and poorly maintained drainage infrastructure.",
+    "domain": "urban_development",
+    "severity": "high",
+    "district": "Dumka"
+  },
+  {
+    "title": "Drinking water scarcity in summer months, Khunti",
+    "description": "Several hamlets in Khunti face acute drinking water shortage every summer as hand pumps run dry, forcing women to walk over 3 km daily to fetch water.",
+    "domain": "water_resources",
+    "severity": "critical",
+    "district": "Khunti"
+  },
+  {
+    "title": "Groundwater contamination with iron reported in Simdega",
+    "description": "Water quality tests in parts of Simdega show excess iron content in groundwater, making it unfit for regular consumption without treatment.",
+    "domain": "water_resources",
+    "severity": "high",
+    "district": "Simdega"
+  },
+  {
+    "title": "Lack of market linkage for tribal forest produce in Simdega",
+    "description": "Tribal collectors of minor forest produce like mahua and tendu leaves in Simdega continue to sell to middlemen at low prices due to absence of organised market linkage or processing units.",
+    "domain": "rural_livelihoods",
+    "severity": "medium",
+    "district": "Simdega"
+  },
+  {
+    "title": "Farmers in West Singhbhum lack access to soil testing labs",
+    "description": "Smallholder farmers in West Singhbhum district have to travel over 40 km to the nearest soil testing facility, leading to inefficient fertilizer use and declining yields.",
+    "domain": "agriculture",
+    "severity": "medium",
+    "district": "West Singhbhum"
+  },
+  {
+    "title": "Ration card corrections stuck in bureaucratic delay, Dumka",
+    "description": "Numerous ration card correction and addition requests in Dumka remain pending for over a year, affecting food security for eligible households.",
+    "domain": "public_administration",
+    "severity": "medium",
+    "district": "Dumka"
+  },
+  {
+    "title": "Seasonal distress migration from East Singhbhum villages",
+    "description": "Every year, a large number of working-age villagers from East Singhbhum migrate to other states for construction and brick-kiln work due to lack of local livelihood opportunities.",
+    "domain": "rural_livelihoods",
+    "severity": "high",
+    "district": "East Singhbhum"
+  },
+  {
+    "title": "Government school in Khunti has no functioning toilets",
+    "description": "The government middle school in Khunti district has broken or non-functional toilets, forcing girl students to skip classes during menstruation. Parents have complained to the block education officer multiple times with no repair carried out this academic year.",
+    "domain": "education",
+    "severity": "high",
+    "district": "Khunti"
+  },
+  {
+    "title": "Mental health services absent at district hospital, Chatra",
+    "description": "The district hospital in Chatra has no dedicated mental health counsellor or psychiatrist, leaving patients with no local access to care.",
+    "domain": "healthcare",
+    "severity": "medium",
+    "district": "Chatra"
+  },
+  {
+    "title": "Mid-day meal quality complaints from school in Godda",
+    "description": "Parents in Godda report that mid-day meals served at the primary school are frequently substandard, sometimes stale, raising health concerns for young children.",
+    "domain": "education",
+    "severity": "medium",
+    "district": "Godda"
+  },
+  {
+    "title": "Street lighting absent in newly developed colony, Ramgarh",
+    "description": "A newly developed residential colony in Ramgarh town lacks street lighting, raising safety concerns for women and the elderly after dark.",
+    "domain": "urban_development",
+    "severity": "medium",
+    "district": "Ramgarh"
+  },
+  {
+    "title": "Encroachment on public land and footpaths in Godda",
+    "description": "Vendor and structure encroachment on footpaths in the main market area of Godda town has made pedestrian movement unsafe, especially for the elderly and disabled.",
+    "domain": "urban_development",
+    "severity": "low",
+    "district": "Godda"
+  },
+  {
+    "title": "Government buildings in Palamu lack wheelchair access",
+    "description": "Several government offices in Palamu including the block development office have no ramps or accessible toilets, making it difficult for persons with disabilities to access services.",
+    "domain": "accessibility",
+    "severity": "high",
+    "district": "Palamu"
+  },
+  {
+    "title": "Lack of ambulance service in interior villages of Jamtara",
+    "description": "Villagers in interior parts of Jamtara report having no access to ambulance services during medical emergencies, often relying on private vehicles or bullock carts.",
+    "domain": "healthcare",
+    "severity": "high",
+    "district": "Jamtara"
+  },
+  {
+    "title": "High maternal mortality reported in remote blocks of Giridih",
+    "description": "Community health workers in Giridih flag a rise in home deliveries without skilled attendance due to the nearest functional delivery point being over 20 km away.",
+    "domain": "healthcare",
+    "severity": "critical",
+    "district": "Giridih"
+  },
+  {
+    "title": "Street lighting absent in newly developed colony, East Singhbhum",
+    "description": "A newly developed residential colony in East Singhbhum town lacks street lighting, raising safety concerns for women and the elderly after dark.",
+    "domain": "urban_development",
+    "severity": "medium",
+    "district": "East Singhbhum"
+  },
+  {
+    "title": "MGNREGA wage payment delays affecting rural households in Koderma",
+    "description": "Rural households in Koderma enrolled under MGNREGA report wage payment delays of several weeks to months, forcing many to migrate for daily wage work.",
+    "domain": "rural_livelihoods",
+    "severity": "high",
+    "district": "Koderma"
+  },
+  {
+    "title": "Rising waterborne disease cases during monsoon in Khunti",
+    "description": "Local health workers in Khunti report a spike in diarrhoea and typhoid cases each monsoon linked to contaminated drinking water sources in nearby hamlets.",
+    "domain": "healthcare",
+    "severity": "high",
+    "district": "Khunti"
+  },
+  {
+    "title": "Groundwater contamination with iron reported in West Singhbhum",
+    "description": "Water quality tests in parts of West Singhbhum show excess iron content in groundwater, making it unfit for regular consumption without treatment.",
+    "domain": "water_resources",
+    "severity": "high",
+    "district": "West Singhbhum"
+  },
+  {
+    "title": "Low uptake of solar micro-grids in remote Gumla villages",
+    "description": "Remote villages in Gumla that are not economically viable for grid extension have seen little uptake of solar micro-grid alternatives due to lack of awareness and financing options.",
+    "domain": "energy",
+    "severity": "medium",
+    "district": "Gumla"
+  },
+  {
+    "title": "Public transport inaccessible for persons with disabilities in Ramgarh",
+    "description": "Buses and shared transport operating in Ramgarh are not equipped for wheelchair users, limiting mobility and access to healthcare and education for disabled residents.",
+    "domain": "accessibility",
+    "severity": "medium",
+    "district": "Ramgarh"
+  },
+  {
+    "title": "Seasonal distress migration from Hazaribagh villages",
+    "description": "Every year, a large number of working-age villagers from Hazaribagh migrate to other states for construction and brick-kiln work due to lack of local livelihood opportunities.",
+    "domain": "rural_livelihoods",
+    "severity": "high",
+    "district": "Hazaribagh"
+  },
+  {
+    "title": "Deforestation near coal mining belt in East Singhbhum",
+    "description": "Local environmental groups report accelerating deforestation around the coal mining belt in East Singhbhum, affecting the microclimate and traditional forest-based livelihoods.",
+    "domain": "environment",
+    "severity": "high",
+    "district": "East Singhbhum"
+  },
+  {
+    "title": "Air quality deterioration near industrial cluster, Godda",
+    "description": "Residents living near the industrial cluster in Godda report worsening air quality with visible dust and smoke, correlating with rising respiratory complaints.",
+    "domain": "environment",
+    "severity": "high",
+    "district": "Godda"
+  },
+  {
+    "title": "Farmers in Chatra lack access to soil testing labs",
+    "description": "Smallholder farmers in Chatra district have to travel over 40 km to the nearest soil testing facility, leading to inefficient fertilizer use and declining yields.",
+    "domain": "agriculture",
+    "severity": "medium",
+    "district": "Chatra"
+  },
+  {
+    "title": "Pension disbursement delays for elderly citizens in Godda",
+    "description": "Elderly beneficiaries of the old-age pension scheme in Godda report irregular and delayed monthly disbursement, affecting their basic subsistence.",
+    "domain": "public_administration",
+    "severity": "high",
+    "district": "Godda"
+  },
+  {
+    "title": "Drinking water scarcity in summer months, Palamu",
+    "description": "Several hamlets in Palamu face acute drinking water shortage every summer as hand pumps run dry, forcing women to walk over 3 km daily to fetch water.",
+    "domain": "water_resources",
+    "severity": "critical",
+    "district": "Palamu"
+  },
+  {
+    "title": "Poor drainage causing waterlogging in Bokaro town wards",
+    "description": "Several low-lying wards of Bokaro town flood with even moderate rainfall due to inadequate and poorly maintained drainage infrastructure.",
+    "domain": "urban_development",
+    "severity": "high",
+    "district": "Bokaro"
+  },
+  {
+    "title": "Groundwater contamination with iron reported in Giridih",
+    "description": "Water quality tests in parts of Giridih show excess iron content in groundwater, making it unfit for regular consumption without treatment.",
+    "domain": "water_resources",
+    "severity": "high",
+    "district": "Giridih"
+  },
+  {
+    "title": "Farmers in Pakur lack access to soil testing labs",
+    "description": "Smallholder farmers in Pakur district have to travel over 40 km to the nearest soil testing facility, leading to inefficient fertilizer use and declining yields.",
+    "domain": "agriculture",
+    "severity": "medium",
+    "district": "Pakur"
+  },
+  {
+    "title": "Deforestation near coal mining belt in Sahibganj",
+    "description": "Local environmental groups report accelerating deforestation around the coal mining belt in Sahibganj, affecting the microclimate and traditional forest-based livelihoods.",
+    "domain": "environment",
+    "severity": "high",
+    "district": "Sahibganj"
+  },
+  {
+    "title": "Government school in Dumka has no functioning toilets",
+    "description": "The government middle school in Dumka district has broken or non-functional toilets, forcing girl students to skip classes during menstruation. Parents have complained to the block education officer multiple times with no repair carried out this academic year.",
+    "domain": "education",
+    "severity": "high",
+    "district": "Dumka"
+  },
+  {
+    "title": "No digital classroom or computer lab in village school, Sahibganj",
+    "description": "The upgraded high school in a remote village of Sahibganj received a computer lab grant two years ago but computers were never installed, leaving students without any digital literacy exposure.",
+    "domain": "education",
+    "severity": "medium",
+    "district": "Sahibganj"
+  },
+  {
+    "title": "Braille and assistive learning material unavailable in Deoghar schools",
+    "description": "Schools with visually impaired students in Deoghar report a lack of Braille textbooks and assistive learning devices, affecting inclusive education goals.",
+    "domain": "accessibility",
+    "severity": "high",
+    "district": "Deoghar"
+  },
+  {
+    "title": "Low uptake of solar micro-grids in remote East Singhbhum villages",
+    "description": "Remote villages in East Singhbhum that are not economically viable for grid extension have seen little uptake of solar micro-grid alternatives due to lack of awareness and financing options.",
+    "domain": "energy",
+    "severity": "medium",
+    "district": "East Singhbhum"
+  },
+  {
+    "title": "Deforestation near coal mining belt in Latehar",
+    "description": "Local environmental groups report accelerating deforestation around the coal mining belt in Latehar, affecting the microclimate and traditional forest-based livelihoods.",
+    "domain": "environment",
+    "severity": "high",
+    "district": "Latehar"
+  },
+  {
+    "title": "Primary health centre in Palamu lacks doctor and medicines",
+    "description": "The primary health centre serving multiple panchayats in Palamu has been without a resident doctor for over a year, and essential medicines are frequently out of stock.",
+    "domain": "healthcare",
+    "severity": "critical",
+    "district": "Palamu"
+  },
+  {
+    "title": "Public transport inaccessible for persons with disabilities in Hazaribagh",
+    "description": "Buses and shared transport operating in Hazaribagh are not equipped for wheelchair users, limiting mobility and access to healthcare and education for disabled residents.",
+    "domain": "accessibility",
+    "severity": "medium",
+    "district": "Hazaribagh"
+  },
+  {
+    "title": "Shortage of subject teachers in Chatra secondary schools",
+    "description": "Several secondary schools in Chatra are running without science and mathematics teachers for over six months, affecting board exam preparation for class 10 and 12 students in the block.",
+    "domain": "education",
+    "severity": "high",
+    "district": "Chatra"
+  },
+  {
+    "title": "Lack of market linkage for tribal forest produce in West Singhbhum",
+    "description": "Tribal collectors of minor forest produce like mahua and tendu leaves in West Singhbhum continue to sell to middlemen at low prices due to absence of organised market linkage or processing units.",
+    "domain": "rural_livelihoods",
+    "severity": "medium",
+    "district": "West Singhbhum"
+  },
+  {
+    "title": "Mid-day meal quality complaints from school in Deoghar",
+    "description": "Parents in Deoghar report that mid-day meals served at the primary school are frequently substandard, sometimes stale, raising health concerns for young children.",
+    "domain": "education",
+    "severity": "medium",
+    "district": "Deoghar"
+  },
+  {
+    "title": "High dropout rate among tribal girl students in Koderma",
+    "description": "Local NGOs report rising dropout of adolescent tribal girls after class 8 in Koderma due to distance to secondary schools and lack of hostel facilities.",
+    "domain": "education",
+    "severity": "high",
+    "district": "Koderma"
+  },
+  {
+    "title": "Plastic waste choking drainage channels in Bokaro",
+    "description": "Improper plastic waste disposal is clogging natural drainage channels in Bokaro, causing waterlogging during even moderate rainfall.",
+    "domain": "environment",
+    "severity": "medium",
+    "district": "Bokaro"
+  },
+  {
+    "title": "Poor grievance redressal at panchayat level in Latehar",
+    "description": "Villagers in Latehar report that grievances submitted at the gram panchayat level rarely receive a documented response or resolution timeline.",
+    "domain": "public_administration",
+    "severity": "medium",
+    "district": "Latehar"
+  },
+  {
+    "title": "Drinking water scarcity in summer months, Dumka",
+    "description": "Several hamlets in Dumka face acute drinking water shortage every summer as hand pumps run dry, forcing women to walk over 3 km daily to fetch water.",
+    "domain": "water_resources",
+    "severity": "critical",
+    "district": "Dumka"
+  },
+  {
+    "title": "Crop damage due to erratic rainfall in Dumka",
+    "description": "Paddy farmers in Dumka report significant crop loss this kharif season due to delayed monsoon followed by sudden heavy rainfall, with no crop insurance claims processed yet.",
+    "domain": "agriculture",
+    "severity": "high",
+    "district": "Dumka"
+  },
+  {
+    "title": "Encroachment on public land and footpaths in Deoghar",
+    "description": "Vendor and structure encroachment on footpaths in the main market area of Deoghar town has made pedestrian movement unsafe, especially for the elderly and disabled.",
+    "domain": "urban_development",
+    "severity": "low",
+    "district": "Deoghar"
+  },
+  {
+    "title": "Unelectrified hamlets remain off-grid in Giridih",
+    "description": "Several small hamlets in the interior of Giridih remain without any grid electricity connection despite being listed as electrified under national schemes.",
+    "domain": "energy",
+    "severity": "critical",
+    "district": "Giridih"
+  },
+  {
+    "title": "Pension disbursement delays for elderly citizens in Lohardaga",
+    "description": "Elderly beneficiaries of the old-age pension scheme in Lohardaga report irregular and delayed monthly disbursement, affecting their basic subsistence.",
+    "domain": "public_administration",
+    "severity": "high",
+    "district": "Lohardaga"
+  },
+  {
+    "title": "Government school in Ranchi has no functioning toilets",
+    "description": "The government middle school in Ranchi district has broken or non-functional toilets, forcing girl students to skip classes during menstruation. Parents have complained to the block education officer multiple times with no repair carried out this academic year.",
+    "domain": "education",
+    "severity": "high",
+    "district": "Ranchi"
+  },
+  {
+    "title": "Shortage of subject teachers in Seraikela Kharsawan secondary schools",
+    "description": "Several secondary schools in Seraikela Kharsawan are running without science and mathematics teachers for over six months, affecting board exam preparation for class 10 and 12 students in the block.",
+    "domain": "education",
+    "severity": "high",
+    "district": "Seraikela Kharsawan"
+  },
+  {
+    "title": "Human-wildlife conflict damaging crops near forest fringe, Pakur",
+    "description": "Elephant herds from nearby forest areas in Pakur have repeatedly damaged standing crops of maize and paddy near forest-fringe villages, with no compensation disbursed.",
+    "domain": "agriculture",
+    "severity": "high",
+    "district": "Pakur"
+  },
+  {
+    "title": "Land record digitisation errors causing disputes in Giridih",
+    "description": "Digitised land records in parts of Giridih contain mismatches with physical records, leading to an increase in ownership disputes and loan rejections for farmers.",
+    "domain": "public_administration",
+    "severity": "medium",
+    "district": "Giridih"
+  },
+  {
+    "title": "Mid-day meal quality complaints from school in Jamtara",
+    "description": "Parents in Jamtara report that mid-day meals served at the primary school are frequently substandard, sometimes stale, raising health concerns for young children.",
+    "domain": "education",
+    "severity": "medium",
+    "district": "Jamtara"
+  },
+  {
+    "title": "No digital classroom or computer lab in village school, Hazaribagh",
+    "description": "The upgraded high school in a remote village of Hazaribagh received a computer lab grant two years ago but computers were never installed, leaving students without any digital literacy exposure.",
+    "domain": "education",
+    "severity": "medium",
+    "district": "Hazaribagh"
+  },
+  {
+    "title": "Low adoption of improved seed varieties in Koderma",
+    "description": "Farmers in remote blocks of Koderma continue using traditional low-yield paddy seed varieties due to lack of awareness and unavailability of certified seeds from Krishi Vigyan Kendra.",
+    "domain": "agriculture",
+    "severity": "medium",
+    "district": "Koderma"
+  },
+  {
+    "title": "Non-functional piped water scheme in village, Latehar",
+    "description": "A Jal Jeevan Mission piped water connection scheme in Latehar village remains non-functional a year after installation due to pump motor failure.",
+    "domain": "water_resources",
+    "severity": "high",
+    "district": "Latehar"
+  },
+  {
+    "title": "Unelectrified hamlets remain off-grid in Chatra",
+    "description": "Several small hamlets in the interior of Chatra remain without any grid electricity connection despite being listed as electrified under national schemes.",
+    "domain": "energy",
+    "severity": "critical",
+    "district": "Chatra"
+  },
+  {
+    "title": "Pension disbursement delays for elderly citizens in Garhwa",
+    "description": "Elderly beneficiaries of the old-age pension scheme in Garhwa report irregular and delayed monthly disbursement, affecting their basic subsistence.",
+    "domain": "public_administration",
+    "severity": "high",
+    "district": "Garhwa"
+  },
+  {
+    "title": "Land record digitisation errors causing disputes in Seraikela Kharsawan",
+    "description": "Digitised land records in parts of Seraikela Kharsawan contain mismatches with physical records, leading to an increase in ownership disputes and loan rejections for farmers.",
+    "domain": "public_administration",
+    "severity": "medium",
+    "district": "Seraikela Kharsawan"
+  },
+  {
+    "title": "Malnutrition among children in Anganwadi centres, Ramgarh",
+    "description": "Anganwadi records from Ramgarh show a significant proportion of children under five classified as underweight, with irregular supplementary nutrition supply.",
+    "domain": "healthcare",
+    "severity": "critical",
+    "district": "Ramgarh"
+  },
+  {
+    "title": "Post-harvest storage loss for vegetable farmers, Latehar",
+    "description": "Vegetable growers in Latehar lose up to 25% of produce due to lack of cold storage and poor rural roads connecting farms to the local mandi.",
+    "domain": "agriculture",
+    "severity": "high",
+    "district": "Latehar"
+  },
+  {
+    "title": "Frequent power outages disrupting daily life in Palamu",
+    "description": "Villages in Palamu experience power cuts lasting 8-10 hours daily, disrupting small businesses, cold storage of produce, and children's evening study time.",
+    "domain": "energy",
+    "severity": "high",
+    "district": "Palamu"
+  },
+  {
+    "title": "Human-wildlife conflict damaging crops near forest fringe, Chatra",
+    "description": "Elephant herds from nearby forest areas in Chatra have repeatedly damaged standing crops of maize and paddy near forest-fringe villages, with no compensation disbursed.",
+    "domain": "agriculture",
+    "severity": "high",
+    "district": "Chatra"
+  },
+  {
+    "title": "Braille and assistive learning material unavailable in Godda schools",
+    "description": "Schools with visually impaired students in Godda report a lack of Braille textbooks and assistive learning devices, affecting inclusive education goals.",
+    "domain": "accessibility",
+    "severity": "high",
+    "district": "Godda"
+  },
+  {
+    "title": "Plastic waste choking drainage channels in Ranchi",
+    "description": "Improper plastic waste disposal is clogging natural drainage channels in Ranchi, causing waterlogging during even moderate rainfall.",
+    "domain": "environment",
+    "severity": "medium",
+    "district": "Ranchi"
+  },
+  {
+    "title": "Seasonal distress migration from Ramgarh villages",
+    "description": "Every year, a large number of working-age villagers from Ramgarh migrate to other states for construction and brick-kiln work due to lack of local livelihood opportunities.",
+    "domain": "rural_livelihoods",
+    "severity": "high",
+    "district": "Ramgarh"
+  },
+  {
+    "title": "High dropout rate among tribal girl students in Dumka",
+    "description": "Local NGOs report rising dropout of adolescent tribal girls after class 8 in Dumka due to distance to secondary schools and lack of hostel facilities.",
+    "domain": "education",
+    "severity": "high",
+    "district": "Dumka"
+  },
+  {
+    "title": "Unelectrified hamlets remain off-grid in Simdega",
+    "description": "Several small hamlets in the interior of Simdega remain without any grid electricity connection despite being listed as electrified under national schemes.",
+    "domain": "energy",
+    "severity": "critical",
+    "district": "Simdega"
+  },
+  {
+    "title": "Library and reading resources absent in block schools, Pakur",
+    "description": "Most upper primary schools in Pakur block lack a functioning library or age-appropriate reading material, limiting literacy development beyond textbooks.",
+    "domain": "education",
+    "severity": "low",
+    "district": "Pakur"
+  },
+  {
+    "title": "High dropout rate among tribal girl students in Palamu",
+    "description": "Local NGOs report rising dropout of adolescent tribal girls after class 8 in Palamu due to distance to secondary schools and lack of hostel facilities.",
+    "domain": "education",
+    "severity": "high",
+    "district": "Palamu"
+  },
+  {
+    "title": "Damaged transformers not replaced for months in Lohardaga",
+    "description": "A burnt distribution transformer serving multiple villages in Lohardaga has not been replaced for several months, leaving hundreds of households without power.",
+    "domain": "energy",
+    "severity": "high",
+    "district": "Lohardaga"
+  },
+  {
+    "title": "Illegal sand mining damaging riverbank in Khunti",
+    "description": "Unregulated sand mining along the river in Khunti is causing riverbank erosion and threatening nearby agricultural land and a village road.",
+    "domain": "environment",
+    "severity": "high",
+    "district": "Khunti"
+  },
+  {
+    "title": "Low uptake of solar micro-grids in remote Latehar villages",
+    "description": "Remote villages in Latehar that are not economically viable for grid extension have seen little uptake of solar micro-grid alternatives due to lack of awareness and financing options.",
+    "domain": "energy",
+    "severity": "medium",
+    "district": "Latehar"
+  },
+  {
+    "title": "Government buildings in Dumka lack wheelchair access",
+    "description": "Several government offices in Dumka including the block development office have no ramps or accessible toilets, making it difficult for persons with disabilities to access services.",
+    "domain": "accessibility",
+    "severity": "high",
+    "district": "Dumka"
+  },
+  {
+    "title": "Air quality deterioration near industrial cluster, Dhanbad",
+    "description": "Residents living near the industrial cluster in Dhanbad report worsening air quality with visible dust and smoke, correlating with rising respiratory complaints.",
+    "domain": "environment",
+    "severity": "high",
+    "district": "Dhanbad"
+  },
+  {
+    "title": "Primary health centre in Dumka lacks doctor and medicines",
+    "description": "The primary health centre serving multiple panchayats in Dumka has been without a resident doctor for over a year, and essential medicines are frequently out of stock.",
+    "domain": "healthcare",
+    "severity": "critical",
+    "district": "Dumka"
+  },
+  {
+    "title": "Illegal sand mining damaging riverbank in Bokaro",
+    "description": "Unregulated sand mining along the river in Bokaro is causing riverbank erosion and threatening nearby agricultural land and a village road.",
+    "domain": "environment",
+    "severity": "high",
+    "district": "Bokaro"
+  },
+  {
+    "title": "Drinking water scarcity in summer months, Koderma",
+    "description": "Several hamlets in Koderma face acute drinking water shortage every summer as hand pumps run dry, forcing women to walk over 3 km daily to fetch water.",
+    "domain": "water_resources",
+    "severity": "critical",
+    "district": "Koderma"
+  },
+  {
+    "title": "Ration card corrections stuck in bureaucratic delay, Khunti",
+    "description": "Numerous ration card correction and addition requests in Khunti remain pending for over a year, affecting food security for eligible households.",
+    "domain": "public_administration",
+    "severity": "medium",
+    "district": "Khunti"
+  },
+  {
+    "title": "Primary health centre in Ranchi lacks doctor and medicines",
+    "description": "The primary health centre serving multiple panchayats in Ranchi has been without a resident doctor for over a year, and essential medicines are frequently out of stock.",
+    "domain": "healthcare",
+    "severity": "critical",
+    "district": "Ranchi"
+  },
+  {
+    "title": "Lack of ambulance service in interior villages of Godda",
+    "description": "Villagers in interior parts of Godda report having no access to ambulance services during medical emergencies, often relying on private vehicles or bullock carts.",
+    "domain": "healthcare",
+    "severity": "high",
+    "district": "Godda"
+  },
+  {
+    "title": "Low adoption of improved seed varieties in Palamu",
+    "description": "Farmers in remote blocks of Palamu continue using traditional low-yield paddy seed varieties due to lack of awareness and unavailability of certified seeds from Krishi Vigyan Kendra.",
+    "domain": "agriculture",
+    "severity": "medium",
+    "district": "Palamu"
+  },
+  {
+    "title": "No sign language interpreters at public service counters, West Singhbhum",
+    "description": "Public service delivery counters in West Singhbhum including the district hospital have no sign language support, excluding hearing-impaired citizens from timely service.",
+    "domain": "accessibility",
+    "severity": "medium",
+    "district": "West Singhbhum"
+  },
+  {
+    "title": "Malnutrition among children in Anganwadi centres, Latehar",
+    "description": "Anganwadi records from Latehar show a significant proportion of children under five classified as underweight, with irregular supplementary nutrition supply.",
+    "domain": "healthcare",
+    "severity": "critical",
+    "district": "Latehar"
+  },
+  {
+    "title": "Poor drainage causing waterlogging in Ranchi town wards",
+    "description": "Several low-lying wards of Ranchi town flood with even moderate rainfall due to inadequate and poorly maintained drainage infrastructure.",
+    "domain": "urban_development",
+    "severity": "high",
+    "district": "Ranchi"
+  },
+  {
+    "title": "Poor grievance redressal at panchayat level in Hazaribagh",
+    "description": "Villagers in Hazaribagh report that grievances submitted at the gram panchayat level rarely receive a documented response or resolution timeline.",
+    "domain": "public_administration",
+    "severity": "medium",
+    "district": "Hazaribagh"
+  },
+  {
+    "title": "Pond and check dam desilting needed in Lohardaga",
+    "description": "Traditional water bodies in Lohardaga that recharge the local aquifer have silted up over the years, reducing available water for both irrigation and drinking.",
+    "domain": "water_resources",
+    "severity": "medium",
+    "district": "Lohardaga"
+  },
+  {
+    "title": "Irrigation canal siltation affecting farmland in Dhanbad",
+    "description": "A key minor irrigation canal serving several villages in Dhanbad has not been desilted in years, cutting off water supply to nearly 200 acres of cultivable land.",
+    "domain": "agriculture",
+    "severity": "high",
+    "district": "Dhanbad"
+  },
+  {
+    "title": "Fluoride contamination affecting bone health in Dumka",
+    "description": "Residents in pockets of Dumka show early signs of skeletal fluorosis linked to high fluoride content in the only available borewell water source.",
+    "domain": "water_resources",
+    "severity": "critical",
+    "district": "Dumka"
+  },
+  {
+    "title": "Damaged transformers not replaced for months in Dhanbad",
+    "description": "A burnt distribution transformer serving multiple villages in Dhanbad has not been replaced for several months, leaving hundreds of households without power.",
+    "domain": "energy",
+    "severity": "high",
+    "district": "Dhanbad"
+  },
+  {
+    "title": "Ration card corrections stuck in bureaucratic delay, Bokaro",
+    "description": "Numerous ration card correction and addition requests in Bokaro remain pending for over a year, affecting food security for eligible households.",
+    "domain": "public_administration",
+    "severity": "medium",
+    "district": "Bokaro"
+  },
+  {
+    "title": "Unplanned urban growth straining civic amenities in Seraikela Kharsawan",
+    "description": "Rapid unplanned settlement expansion on the outskirts of Seraikela Kharsawan town has outpaced water supply, sewage, and road infrastructure planning.",
+    "domain": "urban_development",
+    "severity": "medium",
+    "district": "Seraikela Kharsawan"
+  },
+  {
+    "title": "Air quality deterioration near industrial cluster, Lohardaga",
+    "description": "Residents living near the industrial cluster in Lohardaga report worsening air quality with visible dust and smoke, correlating with rising respiratory complaints.",
+    "domain": "environment",
+    "severity": "high",
+    "district": "Lohardaga"
+  },
+  {
+    "title": "Public transport inaccessible for persons with disabilities in Sahibganj",
+    "description": "Buses and shared transport operating in Sahibganj are not equipped for wheelchair users, limiting mobility and access to healthcare and education for disabled residents.",
+    "domain": "accessibility",
+    "severity": "medium",
+    "district": "Sahibganj"
+  },
+  {
+    "title": "Government school in Palamu has no functioning toilets",
+    "description": "The government middle school in Palamu district has broken or non-functional toilets, forcing girl students to skip classes during menstruation. Parents have complained to the block education officer multiple times with no repair carried out this academic year.",
+    "domain": "education",
+    "severity": "high",
+    "district": "Palamu"
+  },
+  {
+    "title": "Mid-day meal quality complaints from school in Dhanbad",
+    "description": "Parents in Dhanbad report that mid-day meals served at the primary school are frequently substandard, sometimes stale, raising health concerns for young children.",
+    "domain": "education",
+    "severity": "medium",
+    "district": "Dhanbad"
+  },
+  {
+    "title": "Poor drainage causing waterlogging in Koderma town wards",
+    "description": "Several low-lying wards of Koderma town flood with even moderate rainfall due to inadequate and poorly maintained drainage infrastructure.",
+    "domain": "urban_development",
+    "severity": "high",
+    "district": "Koderma"
+  },
+  {
+    "title": "Groundwater contamination with iron reported in Chatra",
+    "description": "Water quality tests in parts of Chatra show excess iron content in groundwater, making it unfit for regular consumption without treatment.",
+    "domain": "water_resources",
+    "severity": "high",
+    "district": "Chatra"
+  },
+  {
+    "title": "Primary health centre in Koderma lacks doctor and medicines",
+    "description": "The primary health centre serving multiple panchayats in Koderma has been without a resident doctor for over a year, and essential medicines are frequently out of stock.",
+    "domain": "healthcare",
+    "severity": "critical",
+    "district": "Koderma"
+  },
+  {
+    "title": "Plastic waste choking drainage channels in Khunti",
+    "description": "Improper plastic waste disposal is clogging natural drainage channels in Khunti, causing waterlogging during even moderate rainfall.",
+    "domain": "environment",
+    "severity": "medium",
+    "district": "Khunti"
+  },
+  {
+    "title": "Unplanned urban growth straining civic amenities in West Singhbhum",
+    "description": "Rapid unplanned settlement expansion on the outskirts of West Singhbhum town has outpaced water supply, sewage, and road infrastructure planning.",
+    "domain": "urban_development",
+    "severity": "medium",
+    "district": "West Singhbhum"
+  },
+  {
+    "title": "Library and reading resources absent in block schools, Chatra",
+    "description": "Most upper primary schools in Chatra block lack a functioning library or age-appropriate reading material, limiting literacy development beyond textbooks.",
+    "domain": "education",
+    "severity": "low",
+    "district": "Chatra"
+  },
+  {
+    "title": "Rising waterborne disease cases during monsoon in Dumka",
+    "description": "Local health workers in Dumka report a spike in diarrhoea and typhoid cases each monsoon linked to contaminated drinking water sources in nearby hamlets.",
+    "domain": "healthcare",
+    "severity": "high",
+    "district": "Dumka"
+  },
+  {
+    "title": "Human-wildlife conflict damaging crops near forest fringe, Giridih",
+    "description": "Elephant herds from nearby forest areas in Giridih have repeatedly damaged standing crops of maize and paddy near forest-fringe villages, with no compensation disbursed.",
+    "domain": "agriculture",
+    "severity": "high",
+    "district": "Giridih"
+  },
+  {
+    "title": "Low adoption of improved seed varieties in Bokaro",
+    "description": "Farmers in remote blocks of Bokaro continue using traditional low-yield paddy seed varieties due to lack of awareness and unavailability of certified seeds from Krishi Vigyan Kendra.",
+    "domain": "agriculture",
+    "severity": "medium",
+    "district": "Bokaro"
+  },
+  {
+    "title": "Unplanned urban growth straining civic amenities in Chatra",
+    "description": "Rapid unplanned settlement expansion on the outskirts of Chatra town has outpaced water supply, sewage, and road infrastructure planning.",
+    "domain": "urban_development",
+    "severity": "medium",
+    "district": "Chatra"
+  },
+  {
+    "title": "Pension disbursement delays for elderly citizens in Dhanbad",
+    "description": "Elderly beneficiaries of the old-age pension scheme in Dhanbad report irregular and delayed monthly disbursement, affecting their basic subsistence.",
+    "domain": "public_administration",
+    "severity": "high",
+    "district": "Dhanbad"
+  },
+  {
+    "title": "Frequent power outages disrupting daily life in Khunti",
+    "description": "Villages in Khunti experience power cuts lasting 8-10 hours daily, disrupting small businesses, cold storage of produce, and children's evening study time.",
+    "domain": "energy",
+    "severity": "high",
+    "district": "Khunti"
+  },
+  {
+    "title": "Post-harvest storage loss for vegetable farmers, Sahibganj",
+    "description": "Vegetable growers in Sahibganj lose up to 25% of produce due to lack of cold storage and poor rural roads connecting farms to the local mandi.",
+    "domain": "agriculture",
+    "severity": "high",
+    "district": "Sahibganj"
+  },
+  {
+    "title": "Human-wildlife conflict damaging crops near forest fringe, West Singhbhum",
+    "description": "Elephant herds from nearby forest areas in West Singhbhum have repeatedly damaged standing crops of maize and paddy near forest-fringe villages, with no compensation disbursed.",
+    "domain": "agriculture",
+    "severity": "high",
+    "district": "West Singhbhum"
+  },
+  {
+    "title": "Public transport inaccessible for persons with disabilities in East Singhbhum",
+    "description": "Buses and shared transport operating in East Singhbhum are not equipped for wheelchair users, limiting mobility and access to healthcare and education for disabled residents.",
+    "domain": "accessibility",
+    "severity": "medium",
+    "district": "East Singhbhum"
+  },
+  {
+    "title": "Fluoride contamination affecting bone health in Bokaro",
+    "description": "Residents in pockets of Bokaro show early signs of skeletal fluorosis linked to high fluoride content in the only available borewell water source.",
+    "domain": "water_resources",
+    "severity": "critical",
+    "district": "Bokaro"
+  },
+  {
+    "title": "Uncollected solid waste piling up in West Singhbhum town",
+    "description": "Municipal solid waste in a ward of West Singhbhum town remains uncollected for days at a time, leading to foul smell, stray animal menace, and breeding grounds for mosquitoes.",
+    "domain": "environment",
+    "severity": "medium",
+    "district": "West Singhbhum"
+  },
+  {
+    "title": "No sign language interpreters at public service counters, Chatra",
+    "description": "Public service delivery counters in Chatra including the district hospital have no sign language support, excluding hearing-impaired citizens from timely service.",
+    "domain": "accessibility",
+    "severity": "medium",
+    "district": "Chatra"
+  },
+  {
+    "title": "Frequent power outages disrupting daily life in Ranchi",
+    "description": "Villages in Ranchi experience power cuts lasting 8-10 hours daily, disrupting small businesses, cold storage of produce, and children's evening study time.",
+    "domain": "energy",
+    "severity": "high",
+    "district": "Ranchi"
+  },
+  {
+    "title": "Mental health services absent at district hospital, Seraikela Kharsawan",
+    "description": "The district hospital in Seraikela Kharsawan has no dedicated mental health counsellor or psychiatrist, leaving patients with no local access to care.",
+    "domain": "healthcare",
+    "severity": "medium",
+    "district": "Seraikela Kharsawan"
+  },
+  {
+    "title": "Government buildings in Bokaro lack wheelchair access",
+    "description": "Several government offices in Bokaro including the block development office have no ramps or accessible toilets, making it difficult for persons with disabilities to access services.",
+    "domain": "accessibility",
+    "severity": "high",
+    "district": "Bokaro"
+  },
+  {
+    "title": "Air quality deterioration near industrial cluster, Garhwa",
+    "description": "Residents living near the industrial cluster in Garhwa report worsening air quality with visible dust and smoke, correlating with rising respiratory complaints.",
+    "domain": "environment",
+    "severity": "high",
+    "district": "Garhwa"
+  },
+  {
+    "title": "Shortage of subject teachers in Pakur secondary schools",
+    "description": "Several secondary schools in Pakur are running without science and mathematics teachers for over six months, affecting board exam preparation for class 10 and 12 students in the block.",
+    "domain": "education",
+    "severity": "high",
+    "district": "Pakur"
+  },
+  {
+    "title": "Poor solid waste segregation infrastructure in Khunti municipality",
+    "description": "The Khunti municipal area lacks door-to-door segregated waste collection, with most waste going untreated to an overflowing dump yard.",
+    "domain": "urban_development",
+    "severity": "medium",
+    "district": "Khunti"
+  },
+  {
+    "title": "Handicraft artisans in Dumka lack design and market support",
+    "description": "Traditional bamboo and lac handicraft artisans in Dumka face declining incomes due to lack of design innovation support and direct market access, relying entirely on local haats.",
+    "domain": "rural_livelihoods",
+    "severity": "medium",
+    "district": "Dumka"
+  },
+  {
+    "title": "Low adoption of improved seed varieties in Khunti",
+    "description": "Farmers in remote blocks of Khunti continue using traditional low-yield paddy seed varieties due to lack of awareness and unavailability of certified seeds from Krishi Vigyan Kendra.",
+    "domain": "agriculture",
+    "severity": "medium",
+    "district": "Khunti"
+  },
+  {
+    "title": "Uncollected solid waste piling up in Giridih town",
+    "description": "Municipal solid waste in a ward of Giridih town remains uncollected for days at a time, leading to foul smell, stray animal menace, and breeding grounds for mosquitoes.",
+    "domain": "environment",
+    "severity": "medium",
+    "district": "Giridih"
+  },
+  {
+    "title": "Poor grievance redressal at panchayat level in Ramgarh",
+    "description": "Villagers in Ramgarh report that grievances submitted at the gram panchayat level rarely receive a documented response or resolution timeline.",
+    "domain": "public_administration",
+    "severity": "medium",
+    "district": "Ramgarh"
+  },
+  {
+    "title": "Mental health services absent at district hospital, Giridih",
+    "description": "The district hospital in Giridih has no dedicated mental health counsellor or psychiatrist, leaving patients with no local access to care.",
+    "domain": "healthcare",
+    "severity": "medium",
+    "district": "Giridih"
+  },
+  {
+    "title": "Low adoption of improved seed varieties in Ranchi",
+    "description": "Farmers in remote blocks of Ranchi continue using traditional low-yield paddy seed varieties due to lack of awareness and unavailability of certified seeds from Krishi Vigyan Kendra.",
+    "domain": "agriculture",
+    "severity": "medium",
+    "district": "Ranchi"
+  },
+  {
+    "title": "Frequent power outages disrupting daily life in Koderma",
+    "description": "Villages in Koderma experience power cuts lasting 8-10 hours daily, disrupting small businesses, cold storage of produce, and children's evening study time.",
+    "domain": "energy",
+    "severity": "high",
+    "district": "Koderma"
+  },
+  {
+    "title": "Self-help groups in Garhwa lack access to formal credit",
+    "description": "Women-led self-help groups in Garhwa report difficulty accessing bank credit for scaling up small enterprises despite consistent savings track records.",
+    "domain": "rural_livelihoods",
+    "severity": "medium",
+    "district": "Garhwa"
+  },
+  {
+    "title": "Deforestation near coal mining belt in Gumla",
+    "description": "Local environmental groups report accelerating deforestation around the coal mining belt in Gumla, affecting the microclimate and traditional forest-based livelihoods.",
+    "domain": "environment",
+    "severity": "high",
+    "district": "Gumla"
+  },
+  {
+    "title": "No digital classroom or computer lab in village school, Latehar",
+    "description": "The upgraded high school in a remote village of Latehar received a computer lab grant two years ago but computers were never installed, leaving students without any digital literacy exposure.",
+    "domain": "education",
+    "severity": "medium",
+    "district": "Latehar"
+  },
+  {
+    "title": "Pension disbursement delays for elderly citizens in Jamtara",
+    "description": "Elderly beneficiaries of the old-age pension scheme in Jamtara report irregular and delayed monthly disbursement, affecting their basic subsistence.",
+    "domain": "public_administration",
+    "severity": "high",
+    "district": "Jamtara"
+  },
+  {
+    "title": "Poor solid waste segregation infrastructure in Bokaro municipality",
+    "description": "The Bokaro municipal area lacks door-to-door segregated waste collection, with most waste going untreated to an overflowing dump yard.",
+    "domain": "urban_development",
+    "severity": "medium",
+    "district": "Bokaro"
+  },
+  {
+    "title": "Mid-day meal quality complaints from school in Garhwa",
+    "description": "Parents in Garhwa report that mid-day meals served at the primary school are frequently substandard, sometimes stale, raising health concerns for young children.",
+    "domain": "education",
+    "severity": "medium",
+    "district": "Garhwa"
+  },
+  {
+    "title": "Pond and check dam desilting needed in Godda",
+    "description": "Traditional water bodies in Godda that recharge the local aquifer have silted up over the years, reducing available water for both irrigation and drinking.",
+    "domain": "water_resources",
+    "severity": "medium",
+    "district": "Godda"
+  },
+  {
+    "title": "No sign language interpreters at public service counters, Seraikela Kharsawan",
+    "description": "Public service delivery counters in Seraikela Kharsawan including the district hospital have no sign language support, excluding hearing-impaired citizens from timely service.",
+    "domain": "accessibility",
+    "severity": "medium",
+    "district": "Seraikela Kharsawan"
+  },
+  {
+    "title": "Crop damage due to erratic rainfall in Koderma",
+    "description": "Paddy farmers in Koderma report significant crop loss this kharif season due to delayed monsoon followed by sudden heavy rainfall, with no crop insurance claims processed yet.",
+    "domain": "agriculture",
+    "severity": "high",
+    "district": "Koderma"
+  },
+  {
+    "title": "Land record digitisation errors causing disputes in Pakur",
+    "description": "Digitised land records in parts of Pakur contain mismatches with physical records, leading to an increase in ownership disputes and loan rejections for farmers.",
+    "domain": "public_administration",
+    "severity": "medium",
+    "district": "Pakur"
+  },
+  {
+    "title": "Poor solid waste segregation infrastructure in Palamu municipality",
+    "description": "The Palamu municipal area lacks door-to-door segregated waste collection, with most waste going untreated to an overflowing dump yard.",
+    "domain": "urban_development",
+    "severity": "medium",
+    "district": "Palamu"
+  },
+  {
+    "title": "Pond and check dam desilting needed in Garhwa",
+    "description": "Traditional water bodies in Garhwa that recharge the local aquifer have silted up over the years, reducing available water for both irrigation and drinking.",
+    "domain": "water_resources",
+    "severity": "medium",
+    "district": "Garhwa"
+  },
+  {
+    "title": "Non-functional piped water scheme in village, Gumla",
+    "description": "A Jal Jeevan Mission piped water connection scheme in Gumla village remains non-functional a year after installation due to pump motor failure.",
+    "domain": "water_resources",
+    "severity": "high",
+    "district": "Gumla"
+  },
+  {
+    "title": "Uncollected solid waste piling up in Seraikela Kharsawan town",
+    "description": "Municipal solid waste in a ward of Seraikela Kharsawan town remains uncollected for days at a time, leading to foul smell, stray animal menace, and breeding grounds for mosquitoes.",
+    "domain": "environment",
+    "severity": "medium",
+    "district": "Seraikela Kharsawan"
+  },
+  {
+    "title": "No digital classroom or computer lab in village school, East Singhbhum",
+    "description": "The upgraded high school in a remote village of East Singhbhum received a computer lab grant two years ago but computers were never installed, leaving students without any digital literacy exposure.",
+    "domain": "education",
+    "severity": "medium",
+    "district": "East Singhbhum"
+  },
+  {
+    "title": "Braille and assistive learning material unavailable in Dhanbad schools",
+    "description": "Schools with visually impaired students in Dhanbad report a lack of Braille textbooks and assistive learning devices, affecting inclusive education goals.",
+    "domain": "accessibility",
+    "severity": "high",
+    "district": "Dhanbad"
+  },
+  {
+    "title": "High maternal mortality reported in remote blocks of Simdega",
+    "description": "Community health workers in Simdega flag a rise in home deliveries without skilled attendance due to the nearest functional delivery point being over 20 km away.",
+    "domain": "healthcare",
+    "severity": "critical",
+    "district": "Simdega"
+  },
+  {
+    "title": "Damaged transformers not replaced for months in Jamtara",
+    "description": "A burnt distribution transformer serving multiple villages in Jamtara has not been replaced for several months, leaving hundreds of households without power.",
+    "domain": "energy",
+    "severity": "high",
+    "district": "Jamtara"
+  },
+  {
+    "title": "No digital classroom or computer lab in village school, Ramgarh",
+    "description": "The upgraded high school in a remote village of Ramgarh received a computer lab grant two years ago but computers were never installed, leaving students without any digital literacy exposure.",
+    "domain": "education",
+    "severity": "medium",
+    "district": "Ramgarh"
+  },
+  {
+    "title": "Illegal sand mining damaging riverbank in Ranchi",
+    "description": "Unregulated sand mining along the river in Ranchi is causing riverbank erosion and threatening nearby agricultural land and a village road.",
+    "domain": "environment",
+    "severity": "high",
+    "district": "Ranchi"
+  },
+  {
+    "title": "Damaged transformers not replaced for months in Garhwa",
+    "description": "A burnt distribution transformer serving multiple villages in Garhwa has not been replaced for several months, leaving hundreds of households without power.",
+    "domain": "energy",
+    "severity": "high",
+    "district": "Garhwa"
+  },
+  {
+    "title": "Uncollected solid waste piling up in Pakur town",
+    "description": "Municipal solid waste in a ward of Pakur town remains uncollected for days at a time, leading to foul smell, stray animal menace, and breeding grounds for mosquitoes.",
+    "domain": "environment",
+    "severity": "medium",
+    "district": "Pakur"
+  },
+  {
+    "title": "No digital classroom or computer lab in village school, Gumla",
+    "description": "The upgraded high school in a remote village of Gumla received a computer lab grant two years ago but computers were never installed, leaving students without any digital literacy exposure.",
+    "domain": "education",
+    "severity": "medium",
+    "district": "Gumla"
+  },
+  {
+    "title": "Lack of market linkage for tribal forest produce in Pakur",
+    "description": "Tribal collectors of minor forest produce like mahua and tendu leaves in Pakur continue to sell to middlemen at low prices due to absence of organised market linkage or processing units.",
+    "domain": "rural_livelihoods",
+    "severity": "medium",
+    "district": "Pakur"
+  },
+  {
+    "title": "Primary health centre in Khunti lacks doctor and medicines",
+    "description": "The primary health centre serving multiple panchayats in Khunti has been without a resident doctor for over a year, and essential medicines are frequently out of stock.",
+    "domain": "healthcare",
+    "severity": "critical",
+    "district": "Khunti"
+  },
+  {
+    "title": "Self-help groups in Godda lack access to formal credit",
+    "description": "Women-led self-help groups in Godda report difficulty accessing bank credit for scaling up small enterprises despite consistent savings track records.",
+    "domain": "rural_livelihoods",
+    "severity": "medium",
+    "district": "Godda"
+  },
+  {
+    "title": "Crop damage due to erratic rainfall in Khunti",
+    "description": "Paddy farmers in Khunti report significant crop loss this kharif season due to delayed monsoon followed by sudden heavy rainfall, with no crop insurance claims processed yet.",
+    "domain": "agriculture",
+    "severity": "high",
+    "district": "Khunti"
+  },
+  {
+    "title": "Handicraft artisans in Palamu lack design and market support",
+    "description": "Traditional bamboo and lac handicraft artisans in Palamu face declining incomes due to lack of design innovation support and direct market access, relying entirely on local haats.",
+    "domain": "rural_livelihoods",
+    "severity": "medium",
+    "district": "Palamu"
+  },
+  {
+    "title": "Low uptake of solar micro-grids in remote Ramgarh villages",
+    "description": "Remote villages in Ramgarh that are not economically viable for grid extension have seen little uptake of solar micro-grid alternatives due to lack of awareness and financing options.",
+    "domain": "energy",
+    "severity": "medium",
+    "district": "Ramgarh"
+  },
+  {
+    "title": "Frequent power outages disrupting daily life in Bokaro",
+    "description": "Villages in Bokaro experience power cuts lasting 8-10 hours daily, disrupting small businesses, cold storage of produce, and children's evening study time.",
+    "domain": "energy",
+    "severity": "high",
+    "district": "Bokaro"
+  },
+  {
+    "title": "MGNREGA wage payment delays affecting rural households in Bokaro",
+    "description": "Rural households in Bokaro enrolled under MGNREGA report wage payment delays of several weeks to months, forcing many to migrate for daily wage work.",
+    "domain": "rural_livelihoods",
+    "severity": "high",
+    "district": "Bokaro"
+  },
+  {
+    "title": "Unplanned urban growth straining civic amenities in Simdega",
+    "description": "Rapid unplanned settlement expansion on the outskirts of Simdega town has outpaced water supply, sewage, and road infrastructure planning.",
+    "domain": "urban_development",
+    "severity": "medium",
+    "district": "Simdega"
+  },
+  {
+    "title": "Damaged transformers not replaced for months in Deoghar",
+    "description": "A burnt distribution transformer serving multiple villages in Deoghar has not been replaced for several months, leaving hundreds of households without power.",
+    "domain": "energy",
+    "severity": "high",
+    "district": "Deoghar"
+  },
+  {
+    "title": "Braille and assistive learning material unavailable in Jamtara schools",
+    "description": "Schools with visually impaired students in Jamtara report a lack of Braille textbooks and assistive learning devices, affecting inclusive education goals.",
+    "domain": "accessibility",
+    "severity": "high",
+    "district": "Jamtara"
+  },
+  {
+    "title": "Unelectrified hamlets remain off-grid in Pakur",
+    "description": "Several small hamlets in the interior of Pakur remain without any grid electricity connection despite being listed as electrified under national schemes.",
+    "domain": "energy",
+    "severity": "critical",
+    "district": "Pakur"
+  },
+  {
+    "title": "Drinking water scarcity in summer months, Ranchi",
+    "description": "Several hamlets in Ranchi face acute drinking water shortage every summer as hand pumps run dry, forcing women to walk over 3 km daily to fetch water.",
+    "domain": "water_resources",
+    "severity": "critical",
+    "district": "Ranchi"
+  },
+  {
+    "title": "Primary health centre in Bokaro lacks doctor and medicines",
+    "description": "The primary health centre serving multiple panchayats in Bokaro has been without a resident doctor for over a year, and essential medicines are frequently out of stock.",
+    "domain": "healthcare",
+    "severity": "critical",
+    "district": "Bokaro"
+  },
+  {
+    "title": "No sign language interpreters at public service counters, Pakur",
+    "description": "Public service delivery counters in Pakur including the district hospital have no sign language support, excluding hearing-impaired citizens from timely service.",
+    "domain": "accessibility",
+    "severity": "medium",
+    "district": "Pakur"
+  },
+  {
+    "title": "Fluoride contamination affecting bone health in Khunti",
+    "description": "Residents in pockets of Khunti show early signs of skeletal fluorosis linked to high fluoride content in the only available borewell water source.",
+    "domain": "water_resources",
+    "severity": "critical",
+    "district": "Khunti"
+  },
+  {
+    "title": "Unplanned urban growth straining civic amenities in Giridih",
+    "description": "Rapid unplanned settlement expansion on the outskirts of Giridih town has outpaced water supply, sewage, and road infrastructure planning.",
+    "domain": "urban_development",
+    "severity": "medium",
+    "district": "Giridih"
+  },
+  {
+    "title": "Government school in Bokaro has no functioning toilets",
+    "description": "The government middle school in Bokaro district has broken or non-functional toilets, forcing girl students to skip classes during menstruation. Parents have complained to the block education officer multiple times with no repair carried out this academic year.",
+    "domain": "education",
+    "severity": "high",
+    "district": "Bokaro"
+  },
+  {
+    "title": "Poor drainage causing waterlogging in Palamu town wards",
+    "description": "Several low-lying wards of Palamu town flood with even moderate rainfall due to inadequate and poorly maintained drainage infrastructure.",
+    "domain": "urban_development",
+    "severity": "high",
+    "district": "Palamu"
+  },
+  {
+    "title": "Malnutrition among children in Anganwadi centres, East Singhbhum",
+    "description": "Anganwadi records from East Singhbhum show a significant proportion of children under five classified as underweight, with irregular supplementary nutrition supply.",
+    "domain": "healthcare",
+    "severity": "critical",
+    "district": "East Singhbhum"
+  },
+  {
+    "title": "Library and reading resources absent in block schools, West Singhbhum",
+    "description": "Most upper primary schools in West Singhbhum block lack a functioning library or age-appropriate reading material, limiting literacy development beyond textbooks.",
+    "domain": "education",
+    "severity": "low",
+    "district": "West Singhbhum"
+  },
+  {
+    "title": "Street lighting absent in newly developed colony, Hazaribagh",
+    "description": "A newly developed residential colony in Hazaribagh town lacks street lighting, raising safety concerns for women and the elderly after dark.",
+    "domain": "urban_development",
+    "severity": "medium",
+    "district": "Hazaribagh"
+  },
+  {
+    "title": "Drinking water scarcity in summer months, Bokaro",
+    "description": "Several hamlets in Bokaro face acute drinking water shortage every summer as hand pumps run dry, forcing women to walk over 3 km daily to fetch water.",
+    "domain": "water_resources",
+    "severity": "critical",
+    "district": "Bokaro"
+  },
+  {
+    "title": "Long delays in caste and income certificate issuance, Ranchi",
+    "description": "Citizens in Ranchi report waiting several months for caste and income certificates from the block office, delaying access to scholarships and welfare schemes.",
+    "domain": "public_administration",
+    "severity": "medium",
+    "district": "Ranchi"
+  },
+  {
+    "title": "Long delays in caste and income certificate issuance, Palamu",
+    "description": "Citizens in Palamu report waiting several months for caste and income certificates from the block office, delaying access to scholarships and welfare schemes.",
+    "domain": "public_administration",
+    "severity": "medium",
+    "district": "Palamu"
+  },
+  {
+    "title": "Handicraft artisans in Ranchi lack design and market support",
+    "description": "Traditional bamboo and lac handicraft artisans in Ranchi face declining incomes due to lack of design innovation support and direct market access, relying entirely on local haats.",
+    "domain": "rural_livelihoods",
+    "severity": "medium",
+    "district": "Ranchi"
+  },
+  {
+    "title": "Malnutrition among children in Anganwadi centres, Hazaribagh",
+    "description": "Anganwadi records from Hazaribagh show a significant proportion of children under five classified as underweight, with irregular supplementary nutrition supply.",
+    "domain": "healthcare",
+    "severity": "critical",
+    "district": "Hazaribagh"
+  },
+  {
+    "title": "Non-functional piped water scheme in village, Hazaribagh",
+    "description": "A Jal Jeevan Mission piped water connection scheme in Hazaribagh village remains non-functional a year after installation due to pump motor failure.",
+    "domain": "water_resources",
+    "severity": "high",
+    "district": "Hazaribagh"
+  },
+  {
+    "title": "Farmers in Seraikela Kharsawan lack access to soil testing labs",
+    "description": "Smallholder farmers in Seraikela Kharsawan district have to travel over 40 km to the nearest soil testing facility, leading to inefficient fertilizer use and declining yields.",
+    "domain": "agriculture",
+    "severity": "medium",
+    "district": "Seraikela Kharsawan"
+  },
+  {
+    "title": "Shortage of subject teachers in Giridih secondary schools",
+    "description": "Several secondary schools in Giridih are running without science and mathematics teachers for over six months, affecting board exam preparation for class 10 and 12 students in the block.",
+    "domain": "education",
+    "severity": "high",
+    "district": "Giridih"
+  },
+  {
+    "title": "High dropout rate among tribal girl students in Bokaro",
+    "description": "Local NGOs report rising dropout of adolescent tribal girls after class 8 in Bokaro due to distance to secondary schools and lack of hostel facilities.",
+    "domain": "education",
+    "severity": "high",
+    "district": "Bokaro"
+  },
+  {
+    "title": "Seasonal distress migration from Gumla villages",
+    "description": "Every year, a large number of working-age villagers from Gumla migrate to other states for construction and brick-kiln work due to lack of local livelihood opportunities.",
+    "domain": "rural_livelihoods",
+    "severity": "high",
+    "district": "Gumla"
+  },
+  {
+    "title": "Government buildings in Koderma lack wheelchair access",
+    "description": "Several government offices in Koderma including the block development office have no ramps or accessible toilets, making it difficult for persons with disabilities to access services.",
+    "domain": "accessibility",
+    "severity": "high",
+    "district": "Koderma"
+  },
+  {
+    "title": "Crop damage due to erratic rainfall in Palamu",
+    "description": "Paddy farmers in Palamu report significant crop loss this kharif season due to delayed monsoon followed by sudden heavy rainfall, with no crop insurance claims processed yet.",
+    "domain": "agriculture",
+    "severity": "high",
+    "district": "Palamu"
+  },
+  {
+    "title": "Lack of market linkage for tribal forest produce in Chatra",
+    "description": "Tribal collectors of minor forest produce like mahua and tendu leaves in Chatra continue to sell to middlemen at low prices due to absence of organised market linkage or processing units.",
+    "domain": "rural_livelihoods",
+    "severity": "medium",
+    "district": "Chatra"
+  },
+  {
+    "title": "Public transport inaccessible for persons with disabilities in Gumla",
+    "description": "Buses and shared transport operating in Gumla are not equipped for wheelchair users, limiting mobility and access to healthcare and education for disabled residents.",
+    "domain": "accessibility",
+    "severity": "medium",
+    "district": "Gumla"
+  },
+  {
+    "title": "Illegal sand mining damaging riverbank in Koderma",
+    "description": "Unregulated sand mining along the river in Koderma is causing riverbank erosion and threatening nearby agricultural land and a village road.",
+    "domain": "environment",
+    "severity": "high",
+    "district": "Koderma"
+  },
+  {
+    "title": "Lack of ambulance service in interior villages of Lohardaga",
+    "description": "Villagers in interior parts of Lohardaga report having no access to ambulance services during medical emergencies, often relying on private vehicles or bullock carts.",
+    "domain": "healthcare",
+    "severity": "high",
+    "district": "Lohardaga"
+  },
+  {
+    "title": "Self-help groups in Dhanbad lack access to formal credit",
+    "description": "Women-led self-help groups in Dhanbad report difficulty accessing bank credit for scaling up small enterprises despite consistent savings track records.",
+    "domain": "rural_livelihoods",
+    "severity": "medium",
+    "district": "Dhanbad"
+  },
+  {
+    "title": "Human-wildlife conflict damaging crops near forest fringe, Seraikela Kharsawan",
+    "description": "Elephant herds from nearby forest areas in Seraikela Kharsawan have repeatedly damaged standing crops of maize and paddy near forest-fringe villages, with no compensation disbursed.",
+    "domain": "agriculture",
+    "severity": "high",
+    "district": "Seraikela Kharsawan"
+  },
+  {
+    "title": "No sign language interpreters at public service counters, Giridih",
+    "description": "Public service delivery counters in Giridih including the district hospital have no sign language support, excluding hearing-impaired citizens from timely service.",
+    "domain": "accessibility",
+    "severity": "medium",
+    "district": "Giridih"
+  },
+  {
+    "title": "Ration card corrections stuck in bureaucratic delay, Koderma",
+    "description": "Numerous ration card correction and addition requests in Koderma remain pending for over a year, affecting food security for eligible households.",
+    "domain": "public_administration",
+    "severity": "medium",
+    "district": "Koderma"
+  },
+  {
+    "title": "Self-help groups in Jamtara lack access to formal credit",
+    "description": "Women-led self-help groups in Jamtara report difficulty accessing bank credit for scaling up small enterprises despite consistent savings track records.",
+    "domain": "rural_livelihoods",
+    "severity": "medium",
+    "district": "Jamtara"
+  },
+  {
+    "title": "Rising waterborne disease cases during monsoon in Palamu",
+    "description": "Local health workers in Palamu report a spike in diarrhoea and typhoid cases each monsoon linked to contaminated drinking water sources in nearby hamlets.",
+    "domain": "healthcare",
+    "severity": "high",
+    "district": "Palamu"
+  },
+  {
+    "title": "Pond and check dam desilting needed in Deoghar",
+    "description": "Traditional water bodies in Deoghar that recharge the local aquifer have silted up over the years, reducing available water for both irrigation and drinking.",
+    "domain": "water_resources",
+    "severity": "medium",
+    "district": "Deoghar"
+  },
+  {
+    "title": "Irrigation canal siltation affecting farmland in Deoghar",
+    "description": "A key minor irrigation canal serving several villages in Deoghar has not been desilted in years, cutting off water supply to nearly 200 acres of cultivable land.",
+    "domain": "agriculture",
+    "severity": "high",
+    "district": "Deoghar"
+  },
+  {
+    "title": "Frequent power outages disrupting daily life in Dumka",
+    "description": "Villages in Dumka experience power cuts lasting 8-10 hours daily, disrupting small businesses, cold storage of produce, and children's evening study time.",
+    "domain": "energy",
+    "severity": "high",
+    "district": "Dumka"
+  },
+  {
+    "title": "Street lighting absent in newly developed colony, Gumla",
+    "description": "A newly developed residential colony in Gumla town lacks street lighting, raising safety concerns for women and the elderly after dark.",
+    "domain": "urban_development",
+    "severity": "medium",
+    "district": "Gumla"
+  },
+  {
+    "title": "Library and reading resources absent in block schools, Giridih",
+    "description": "Most upper primary schools in Giridih block lack a functioning library or age-appropriate reading material, limiting literacy development beyond textbooks.",
+    "domain": "education",
+    "severity": "low",
+    "district": "Giridih"
+  },
+  {
+    "title": "Post-harvest storage loss for vegetable farmers, Gumla",
+    "description": "Vegetable growers in Gumla lose up to 25% of produce due to lack of cold storage and poor rural roads connecting farms to the local mandi.",
+    "domain": "agriculture",
+    "severity": "high",
+    "district": "Gumla"
+  },
+  {
+    "title": "High dropout rate among tribal girl students in Khunti",
+    "description": "Local NGOs report rising dropout of adolescent tribal girls after class 8 in Khunti due to distance to secondary schools and lack of hostel facilities.",
+    "domain": "education",
+    "severity": "high",
+    "district": "Khunti"
+  },
+  {
+    "title": "Public transport inaccessible for persons with disabilities in Latehar",
+    "description": "Buses and shared transport operating in Latehar are not equipped for wheelchair users, limiting mobility and access to healthcare and education for disabled residents.",
+    "domain": "accessibility",
+    "severity": "medium",
+    "district": "Latehar"
+  },
+  {
+    "title": "Encroachment on public land and footpaths in Dhanbad",
+    "description": "Vendor and structure encroachment on footpaths in the main market area of Dhanbad town has made pedestrian movement unsafe, especially for the elderly and disabled.",
+    "domain": "urban_development",
+    "severity": "low",
+    "district": "Dhanbad"
+  },
+  {
+    "title": "Poor solid waste segregation infrastructure in Ranchi municipality",
+    "description": "The Ranchi municipal area lacks door-to-door segregated waste collection, with most waste going untreated to an overflowing dump yard.",
+    "domain": "urban_development",
+    "severity": "medium",
+    "district": "Ranchi"
+  },
+  {
+    "title": "Low uptake of solar micro-grids in remote Hazaribagh villages",
+    "description": "Remote villages in Hazaribagh that are not economically viable for grid extension have seen little uptake of solar micro-grid alternatives due to lack of awareness and financing options.",
+    "domain": "energy",
+    "severity": "medium",
+    "district": "Hazaribagh"
+  },
+  {
+    "title": "Poor solid waste segregation infrastructure in Koderma municipality",
+    "description": "The Koderma municipal area lacks door-to-door segregated waste collection, with most waste going untreated to an overflowing dump yard.",
+    "domain": "urban_development",
+    "severity": "medium",
+    "district": "Koderma"
+  },
+  {
+    "title": "Post-harvest storage loss for vegetable farmers, Hazaribagh",
+    "description": "Vegetable growers in Hazaribagh lose up to 25% of produce due to lack of cold storage and poor rural roads connecting farms to the local mandi.",
+    "domain": "agriculture",
+    "severity": "high",
+    "district": "Hazaribagh"
+  },
+  {
+    "title": "Post-harvest storage loss for vegetable farmers, East Singhbhum",
+    "description": "Vegetable growers in East Singhbhum lose up to 25% of produce due to lack of cold storage and poor rural roads connecting farms to the local mandi.",
+    "domain": "agriculture",
+    "severity": "high",
+    "district": "East Singhbhum"
+  },
+  {
+    "title": "Rising waterborne disease cases during monsoon in Bokaro",
+    "description": "Local health workers in Bokaro report a spike in diarrhoea and typhoid cases each monsoon linked to contaminated drinking water sources in nearby hamlets.",
+    "domain": "healthcare",
+    "severity": "high",
+    "district": "Bokaro"
+  },
+  {
+    "title": "Street lighting absent in newly developed colony, Sahibganj",
+    "description": "A newly developed residential colony in Sahibganj town lacks street lighting, raising safety concerns for women and the elderly after dark.",
+    "domain": "urban_development",
+    "severity": "medium",
+    "district": "Sahibganj"
+  },
+  {
+    "title": "Handicraft artisans in Khunti lack design and market support",
+    "description": "Traditional bamboo and lac handicraft artisans in Khunti face declining incomes due to lack of design innovation support and direct market access, relying entirely on local haats.",
+    "domain": "rural_livelihoods",
+    "severity": "medium",
+    "district": "Khunti"
+  },
+  {
+    "title": "Non-functional piped water scheme in village, Sahibganj",
+    "description": "A Jal Jeevan Mission piped water connection scheme in Sahibganj village remains non-functional a year after installation due to pump motor failure.",
+    "domain": "water_resources",
+    "severity": "high",
+    "district": "Sahibganj"
+  },
+  {
+    "title": "Braille and assistive learning material unavailable in Garhwa schools",
+    "description": "Schools with visually impaired students in Garhwa report a lack of Braille textbooks and assistive learning devices, affecting inclusive education goals.",
+    "domain": "accessibility",
+    "severity": "high",
+    "district": "Garhwa"
+  },
+  {
+    "title": "Self-help groups in Deoghar lack access to formal credit",
+    "description": "Women-led self-help groups in Deoghar report difficulty accessing bank credit for scaling up small enterprises despite consistent savings track records.",
+    "domain": "rural_livelihoods",
+    "severity": "medium",
+    "district": "Deoghar"
+  },
+  {
+    "title": "Seasonal distress migration from Sahibganj villages",
+    "description": "Every year, a large number of working-age villagers from Sahibganj migrate to other states for construction and brick-kiln work due to lack of local livelihood opportunities.",
+    "domain": "rural_livelihoods",
+    "severity": "high",
+    "district": "Sahibganj"
+  }
+]

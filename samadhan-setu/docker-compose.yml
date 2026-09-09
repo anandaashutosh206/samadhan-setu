@@ -1,0 +1,58 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: api/Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: sqlite:///./samadhan.db
+      JWT_SECRET_KEY: change-this-to-a-long-random-string-in-production
+      CORS_ORIGINS: http://localhost:3000
+      UPLOAD_DIR: ./uploads
+    volumes:
+      - api_uploads:/app/api/uploads
+      - api_db:/app/api
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 15s
+
+  web:
+    build:
+      context: .
+      dockerfile: web/Dockerfile
+      args:
+        NEXT_PUBLIC_API_URL: http://localhost:8000/api/v1
+    ports:
+      - "3000:3000"
+    environment:
+      NEXT_PUBLIC_API_URL: http://localhost:8000/api/v1
+    depends_on:
+      api:
+        condition: service_healthy
+
+  # Optional: swap DATABASE_URL above to point here for a Postgres-backed setup.
+  postgres:
+    image: postgres:16-alpine
+    profiles: ["postgres"]
+    environment:
+      POSTGRES_DB: samadhan
+      POSTGRES_USER: samadhan
+      POSTGRES_PASSWORD: samadhan
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U samadhan"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  api_uploads:
+  api_db:
+  postgres_data:
